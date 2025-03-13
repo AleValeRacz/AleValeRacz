@@ -1,7 +1,5 @@
-## A bit about myself
 
-
-### ✨Hello and welcome to my little corner of the internet!✨
+## ✨Hello and welcome to my little corner of the internet!✨
 I'm Ale, a second year computer science student at  Babes-Bolyai University (UBB), and I will serve as your guide. 📍
 While i have many interests, computer science shines the brightest, since i've always been a math-oriented, problem solver kind of person.
 I'm still learning, exploring, and figuring things out, but I'm always open to new opportunities and challenges. Who knows where they might lead me?
